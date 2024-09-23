@@ -1,0 +1,14 @@
+{
+  "require": {
+    "php": "^7.4",
+    "guzzlehttp/guzzle": "^7.0",
+    "ext-json": "*"
+  },
+  "config": {
+    "platform-check": false,
+    "platform": {
+      "php": "7.4"
+    },
+    "disable-tls": true
+  }
+}
